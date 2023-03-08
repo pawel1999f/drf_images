@@ -7,3 +7,4 @@
 ![alt text](https://github.com/pawel1999f/drf_images/blob/main/django_app_screens/img4.PNG?raw=true)
 
 No special steps needed to set up the project - just copy files from repository. Path to "manage.py" is: "images_site/manage.py".
+It took me about 10 hours in total to complete this task.
